@@ -48,3 +48,4 @@
 42.  [1449번 수리공 항승]  [[링크]](https://www.acmicpc.net/problem/1449)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1449.py)  [[설명]](https://blog.naver.com/jgyy4775/222566187398)
 43.  [19941번 햄버거 분배]  [[링크]](https://www.acmicpc.net/problem/19941)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/19941.py)  [[설명]](https://blog.naver.com/jgyy4775/222566241988)
 44.  [1669번 제곱수의 합]  [[링크]](https://www.acmicpc.net/problem/1669)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1669.py)  [[설명]](https://blog.naver.com/jgyy4775/222566417802)
+45.  [1026번 보물]  [[링크]](https://www.acmicpc.net/problem/1026)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1026.py)  [[설명]]
