@@ -51,3 +51,5 @@
 45.  [1026번 보물]  [[링크]](https://www.acmicpc.net/problem/1026)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1026.py)  [[설명]]
 46.  [1339번 단어 수학]  [[링크]](https://www.acmicpc.net/problem/1339)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1339.py)  [[설명]](https://blog.naver.com/jgyy4775/222567830939)
 47.  [1010번 다리 놓기]  [[링크]](https://www.acmicpc.net/problem/1010)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1010.py)  [[설명]](https://blog.naver.com/jgyy4775/222567995736)
+48.  [1937번 욕심쟁이 판다]  [[링크]](https://www.acmicpc.net/problem/1937)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1937.py)  [[설명]](https://blog.naver.com/jgyy4775/222568968494)
+49.  [10942번 팰린드롬?]  [[링크]](https://www.acmicpc.net/problem/10942)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/10942.py)  [[설명]](https://blog.naver.com/jgyy4775/222569235626)
