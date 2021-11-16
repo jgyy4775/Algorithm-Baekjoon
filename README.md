@@ -53,3 +53,5 @@
 47.  [1010번 다리 놓기]  [[링크]](https://www.acmicpc.net/problem/1010)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1010.py)  [[설명]](https://blog.naver.com/jgyy4775/222567995736)
 48.  [1937번 욕심쟁이 판다]  [[링크]](https://www.acmicpc.net/problem/1937)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1937.py)  [[설명]](https://blog.naver.com/jgyy4775/222568968494)
 49.  [10942번 팰린드롬?]  [[링크]](https://www.acmicpc.net/problem/10942)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/10942.py)  [[설명]](https://blog.naver.com/jgyy4775/222569235626)
+50.  [2437번 저울]  [[링크]](https://www.acmicpc.net/problem/2437)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2437.py)  [[설명]](https://blog.naver.com/jgyy4775/222569977680)
+51.  [1700번 멀티탭 스케줄링]  [[링크]](https://www.acmicpc.net/problem/1700)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1700.py)  [[설명]](https://blog.naver.com/jgyy4775/222570223571)
