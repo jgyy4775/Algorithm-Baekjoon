@@ -60,3 +60,4 @@
 54.  [14196번 이친수]  [[링크]](https://www.acmicpc.net/problem/14196)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/14196.py)  [[설명]]
 55.  [1707번 이분 그래프]  [[링크]](https://www.acmicpc.net/problem/1707)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1707.py)  [[설명]](https://blog.naver.com/jgyy4775/222572125945)
 56.  [1202번 보석 도둑]  [[링크]](https://www.acmicpc.net/problem/1202)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1202.py)  [[설명]](https://blog.naver.com/jgyy4775/222572432966)
+57.  [11048번 이동하기]  [[링크]](https://www.acmicpc.net/problem/11048)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11048.py)  [[설명]](https://blog.naver.com/jgyy4775/222574609103)
