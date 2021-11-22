@@ -62,3 +62,5 @@
 56.  [1202번 보석 도둑]  [[링크]](https://www.acmicpc.net/problem/1202)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1202.py)  [[설명]](https://blog.naver.com/jgyy4775/222572432966)
 57.  [11048번 이동하기]  [[링크]](https://www.acmicpc.net/problem/11048)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11048.py)  [[설명]](https://blog.naver.com/jgyy4775/222574609103)
 58.  [2343번 기타 레슨]  [[링크]](https://www.acmicpc.net/problem/2343)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2343.py)  [[설명]]
+59.  [2109번 순회강연]  [[링크]](https://www.acmicpc.net/problem/2109)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2109.py)  [[설명]](https://blog.naver.com/jgyy4775/222575572404)
+60.  [2240번 자두 나무]  [[링크]](https://www.acmicpc.net/problem/2240)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2240.py)  [[설명]](https://blog.naver.com/jgyy4775/222575863789)
