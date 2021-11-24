@@ -64,4 +64,5 @@
 58.  [2343번 기타 레슨]  [[링크]](https://www.acmicpc.net/problem/2343)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2343.py)  [[설명]]
 59.  [2109번 순회강연]  [[링크]](https://www.acmicpc.net/problem/2109)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2109.py)  [[설명]](https://blog.naver.com/jgyy4775/222575572404)
 60.  [2240번 자두 나무]  [[링크]](https://www.acmicpc.net/problem/2240)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2240.py)  [[설명]](https://blog.naver.com/jgyy4775/222575863789)
-61.  [2670번 연속부분최대곱]  [[링크]](https://www.acmicpc.net/problem/2670)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2670.py)  [[설명]](https://blog.naver.com/PostView.naver?blogId=jgyy4775&Redirect=View&logNo=222576862437&categoryNo=15&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=6796)
+61.  [2670번 연속부분최대곱]  [[링크]](https://www.acmicpc.net/problem/2670)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2670.py)  [[설명]](https://blog.naver.com/jgyy4775/222576862437)
+62.  [2217번 로프]  [[링크]](https://www.acmicpc.net/problem/2217)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2217.py)  [[설명]](https://blog.naver.com/jgyy4775/222577729308)
