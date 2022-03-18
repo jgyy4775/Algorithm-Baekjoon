@@ -69,3 +69,4 @@
 63.  [9273번 이장님]  [[링크]](https://www.acmicpc.net/problem/9237)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/9273.py)  [[설명]](https://blog.naver.com/jgyy4775/222586950004)
 64.  [1676번 팩토리얼 0의 개수]  [[링크]](https://www.acmicpc.net/problem/1676)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1676.py)  [[설명]](https://blog.naver.com/jgyy4775/222674384625)
 65.  [1913번 달팽이]  [[링크]](https://www.acmicpc.net/problem/1913)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1913.py)  [[설명]](https://blog.naver.com/jgyy4775/222675574628)
+66.  [16926번 배열 돌리기1]  [[링크]](https://www.acmicpc.net/problem/16926)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/16926.py)  [[설명]](https://blog.naver.com/jgyy4775/222676425931)
