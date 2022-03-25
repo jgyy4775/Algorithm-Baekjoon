@@ -71,3 +71,4 @@
 65.  [1913번 달팽이]  [[링크]](https://www.acmicpc.net/problem/1913)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1913.py)  [[설명]](https://blog.naver.com/jgyy4775/222675574628)
 66.  [16926번 배열 돌리기1]  [[링크]](https://www.acmicpc.net/problem/16926)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/16926.py)  [[설명]](https://blog.naver.com/jgyy4775/222676425931)
 67.  [2504번 괄호의 값]  [[링크]](https://www.acmicpc.net/problem/2504)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2504.py)  [[설명]](https://blog.naver.com/jgyy4775/222678896979)
+68.  [2869번 달팽이는 올라가고 싶다]  [[링크]](https://www.acmicpc.net/problem/2869)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2869.py)  [[설명]](https://blog.naver.com/jgyy4775/222682751070)
