@@ -74,3 +74,4 @@
 68.  [2869번 달팽이는 올라가고 싶다]  [[링크]](https://www.acmicpc.net/problem/2869)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2869.py)  [[설명]](https://blog.naver.com/jgyy4775/222682751070)
 69.  [17413번 단어 뒤집기 2]  [[링크]](https://www.acmicpc.net/problem/17413)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/17413.py)  [[설명]](https://blog.naver.com/jgyy4775/222685090150)
 70.  [5525번 IOIOI]  [[링크]](https://www.acmicpc.net/problem/5525)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/5525.py)  [[설명]](https://blog.naver.com/jgyy4775/222685147367)
+71.  [1149번 RGB거리]  [[링크]](https://www.acmicpc.net/problem/1149)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1149.py)  [[설명]](https://blog.naver.com/jgyy4775/222686152530)
