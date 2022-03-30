@@ -75,3 +75,4 @@
 69.  [17413번 단어 뒤집기 2]  [[링크]](https://www.acmicpc.net/problem/17413)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/17413.py)  [[설명]](https://blog.naver.com/jgyy4775/222685090150)
 70.  [5525번 IOIOI]  [[링크]](https://www.acmicpc.net/problem/5525)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/5525.py)  [[설명]](https://blog.naver.com/jgyy4775/222685147367)
 71.  [1149번 RGB거리]  [[링크]](https://www.acmicpc.net/problem/1149)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1149.py)  [[설명]](https://blog.naver.com/jgyy4775/222686152530)
+72.  [1389번 케빈 베이컨의 6단계 법칙]  [[링크]](https://www.acmicpc.net/problem/1389)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1389.py)  [[설명]](https://blog.naver.com/jgyy4775/222687010461)
