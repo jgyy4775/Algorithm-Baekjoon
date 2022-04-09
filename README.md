@@ -79,3 +79,5 @@
 73.  [11659번 구간 합 구하기 4]  [[링크]](https://www.acmicpc.net/problem/11659)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11659.py)  [설명]
 74.  [9465번 스티커]  [[링크]](https://www.acmicpc.net/problem/9465)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/9465.py)  [[설명]](https://blog.naver.com/jgyy4775/222694318391)
 75.  [10819번 차이를 최대로]  [[링크]](https://www.acmicpc.net/problem/10819)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/10819.py)  [설명]
+76.  [1759번 암호 만들기]  [[링크]](https://www.acmicpc.net/problem/1759)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1759.py)  [설명]
+77.  [11286번 절댓값 힙]  [[링크]](https://www.acmicpc.net/submit/11286)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11286.py)  [설명]
