@@ -57,11 +57,11 @@
 51.  [1700번 멀티탭 스케줄링]  [[링크]](https://www.acmicpc.net/problem/1700)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1700.py)  [[설명]](https://blog.naver.com/jgyy4775/222570223571)
 52.  [13460번 구슬 탈출]  [[링크]](https://www.acmicpc.net/problem/13460)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/13460.py)  [[설명]](https://blog.naver.com/jgyy4775/222571300030)
 53.  [2193번 이친수]  [[링크]](https://www.acmicpc.net/problem/2193)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2193.py)  [[설명]](https://blog.naver.com/jgyy4775/222571339737)
-54.  [14196번 이친수]  [[링크]](https://www.acmicpc.net/problem/14196)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/14196.py)  [[설명]]
+54.  [14196번 이친수]  [[링크]](https://www.acmicpc.net/problem/14196)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/14196.py)  [설명]
 55.  [1707번 이분 그래프]  [[링크]](https://www.acmicpc.net/problem/1707)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1707.py)  [[설명]](https://blog.naver.com/jgyy4775/222572125945)
 56.  [1202번 보석 도둑]  [[링크]](https://www.acmicpc.net/problem/1202)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1202.py)  [[설명]](https://blog.naver.com/jgyy4775/222572432966)
 57.  [11048번 이동하기]  [[링크]](https://www.acmicpc.net/problem/11048)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11048.py)  [[설명]](https://blog.naver.com/jgyy4775/222574609103)
-58.  [2343번 기타 레슨]  [[링크]](https://www.acmicpc.net/problem/2343)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2343.py)  [[설명]]
+58.  [2343번 기타 레슨]  [[링크]](https://www.acmicpc.net/problem/2343)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2343.py)  [설명]
 59.  [2109번 순회강연]  [[링크]](https://www.acmicpc.net/problem/2109)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2109.py)  [[설명]](https://blog.naver.com/jgyy4775/222575572404)
 60.  [2240번 자두 나무]  [[링크]](https://www.acmicpc.net/problem/2240)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2240.py)  [[설명]](https://blog.naver.com/jgyy4775/222575863789)
 61.  [2670번 연속부분최대곱]  [[링크]](https://www.acmicpc.net/problem/2670)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2670.py)  [[설명]](https://blog.naver.com/jgyy4775/222576862437)
@@ -82,3 +82,4 @@
 76.  [1759번 암호 만들기]  [[링크]](https://www.acmicpc.net/problem/1759)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1759.py)  [설명]
 77.  [11286번 절댓값 힙]  [[링크]](https://www.acmicpc.net/submit/11286)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11286.py)  [설명]
 78.  [1697번 숨바꼭질]  [[링크]](https://www.acmicpc.net/problem/1697)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1697.py)  [설명]
+79.  [5430번 AC]  [[링크]](https://www.acmicpc.net/problem/5430)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/5430.py)  [[설명]](https://blog.naver.com/jgyy4775/222697592638)
