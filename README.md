@@ -84,3 +84,4 @@
 78.  [1697번 숨바꼭질]  [[링크]](https://www.acmicpc.net/problem/1697)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1697.py)  [설명]
 79.  [5430번 AC]  [[링크]](https://www.acmicpc.net/problem/5430)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/5430.py)  [[설명]](https://blog.naver.com/jgyy4775/222697592638)
 80.  [2565번 전깃줄]  [[링크]](https://www.acmicpc.net/problem/2565)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2565.py)  [[설명]](https://blog.naver.com/jgyy4775/222698628913)
+81.  [2636번 치즈]  [[링크]](https://www.acmicpc.net/problem/2636)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2636.py)  [[설명]](https://blog.naver.com/jgyy4775/222699645276)
