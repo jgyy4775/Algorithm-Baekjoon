@@ -87,3 +87,4 @@
 81.  [2636번 치즈]  [[링크]](https://www.acmicpc.net/problem/2636)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2636.py)  [[설명]](https://blog.naver.com/jgyy4775/222699645276)
 82.  [1715번 카드 정렬하기]  [[링크]](https://www.acmicpc.net/problem/1715)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1715.py)  [설명]
 83.  [2110번 공유기 설치]  [[링크]](https://www.acmicpc.net/problem/2110)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2110.py)  [[설명]](https://blog.naver.com/jgyy4775/222700752843)
+84.  [1446번 지름길]  [[링크]](https://www.acmicpc.net/problem/1446)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1446.py)  [[설명]](https://blog.naver.com/jgyy4775/222701775112)
