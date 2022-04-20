@@ -91,3 +91,4 @@
 85.  [9935번 문자열 폭발]  [[링크]](https://www.acmicpc.net/problem/9935)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/9935.py)  [설명]
 86.  [2564번 경비원]  [[링크]](https://www.acmicpc.net/problem/2564)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2564.py)  [설명]
 87.  [11000번 강의실 배정]  [[링크]](https://www.acmicpc.net/problem/11000)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11000.py)  [[설명]](https://blog.naver.com/jgyy4775/222705228194)
+88.  [2493번 탑]  [[링크]](https://www.acmicpc.net/problem/2493)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2493.py)  [[설명]](https://blog.naver.com/jgyy4775/222706356288)
