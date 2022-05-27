@@ -95,3 +95,5 @@
 89.  [15686번 치킨 배달]  [[링크]](https://www.acmicpc.net/problem/15686)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/15686.py)  [[설명]](https://blog.naver.com/jgyy4775/222709922561)
 90.  [2206번 벽 부수고 이동하기]  [[링크]](https://www.acmicpc.net/problem/2206)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2206.py)  [[설명]](https://blog.naver.com/jgyy4775/222710967477)
 91.  [11057번 오르막 수]  [[링크]](https://www.acmicpc.net/problem/11057)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11057.py)  [[설명]](https://blog.naver.com/jgyy4775/222722856734)
+92.  [1325번 효율적인 해킹]  [[링크]](https://www.acmicpc.net/problem/1325)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1325.py)  [설명]
+93.  [2668번 숫자고르기]  [[링크]](https://www.acmicpc.net/problem/2668)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2668.py)  [[설명]](https://velog.io/@deannn/BOJ-%EB%B0%B1%EC%A4%80-2668%EB%B2%88-%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0-Python)
