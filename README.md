@@ -97,3 +97,5 @@
 91.  [11057번 오르막 수]  [[링크]](https://www.acmicpc.net/problem/11057)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/11057.py)  [[설명]](https://blog.naver.com/jgyy4775/222722856734)
 92.  [1325번 효율적인 해킹]  [[링크]](https://www.acmicpc.net/problem/1325)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1325.py)  [설명]
 93.  [2668번 숫자고르기]  [[링크]](https://www.acmicpc.net/problem/2668)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/2668.py)  [[설명]](https://velog.io/@deannn/BOJ-%EB%B0%B1%EC%A4%80-2668%EB%B2%88-%EC%88%AB%EC%9E%90%EA%B3%A0%EB%A5%B4%EA%B8%B0-Python)
+94.  [1261번 알고스팟]  [[링크]](https://www.acmicpc.net/problem/1261)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/1261.py)  [[설명]](https://blog.naver.com/jgyy4775/222761787598)
+95.  [13549번 숨바꼭질3]  [[링크]](https://www.acmicpc.net/problem/13549)  [[코드]](https://github.com/jgyy4775/Algorithm/blob/main/code/13549.py)  [[설명]](https://blog.naver.com/jgyy4775/222762121155)
